@@ -17,4 +17,10 @@ b. pred_fl_reg_ln and pred_fl_reg_name
 
 We then export out the file. 
 
+### Script
 
+* [raw_impute_DIME_database.py](raw_impute_DIME_database.py) or [raw_impute_DIME_database.ipynb](https://nbviewer.jupyter.org/github/appeler/dime_race/blob/master/raw_impute_DIME_database.ipynb)
+
+### Data
+
+Data will be posted at: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/M5K7VR
