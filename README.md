@@ -1,4 +1,4 @@
-## Race and Sex for DIME
+## DIME Race
 
 Impute race and gender of people in [Database on Ideology, Money in Politics, and Elections](https://data.stanford.edu/dime). 
 
